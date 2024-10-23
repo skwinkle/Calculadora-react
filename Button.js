@@ -18,9 +18,9 @@ const Button = ({ value, onPress, isClear }) => {
 
 const styles = StyleSheet.create({
   button: {
-    width: '22%',
-    padding: 20,
-    margin: 5,
+    width: '20%',
+    padding: 10,
+    margin: 3,
     backgroundColor: '#9b6bf3',  
     alignItems: 'center',
     justifyContent: 'center',
@@ -30,12 +30,12 @@ const styles = StyleSheet.create({
     backgroundColor: '#4727ce',  
   },
   clearButton: {
-    width: '95%',
+    width: '20%',
     backgroundColor: '#633eda',  
   },
   buttonText: {
     color: '#fff',
-    fontSize: 24,
+    fontSize: 20,
   },
 });
 

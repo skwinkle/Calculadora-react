@@ -23,11 +23,11 @@ const styles = StyleSheet.create({
     overflow: 'hidden',
   },
   displayText: {
-    fontSize: 36,
+    fontSize: 15,
     color: '#000060',
   },
   resultText: {
-    fontSize: 30,
+    fontSize: 16,
     color: '#000060',
   },
 });
